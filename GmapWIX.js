@@ -1091,4 +1091,4 @@ line43.setMap(map);
   });
       }
 </script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7L7eFA7DlMwU1xO36R-EfI7mxh3G2Tns&callback=initMap"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=[APIキー]&callback=initMap"></script>
